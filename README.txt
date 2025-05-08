@@ -1,5 +1,7 @@
 Requirements: Python 3.10, Spark 3.5.4, Azure Blob Storage with Access Keys, MongoDB details, Jupyter Notebook with al libraries installed.
 
+Dataset can be downloaded from - https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
+
 Follow step-by-step to run the code
 Note: Make sure the environment is setup up correctly
 
